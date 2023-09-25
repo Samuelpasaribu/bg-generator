@@ -1,0 +1,25 @@
+{
+    "short_name": "BGenerator",
+    "name": "BGenerator - Background Generator",
+    "icons": [
+      {
+        "src": "https://www.haxorao.com/favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgc4ku04cz1tAUmS_-ABkbzsiuCEZQejgoIsy1gQKsPQb7JD4CPQEvf1ympaEIYxWiuBOat9L-VBNNbyos1T5UBtNGHuqerFR7aZPG0akbU3hut_OIrbCnaYFbQZlH6o5e29oAApBhxvju2J0jsONOHiAnlxtEDTgqoRIu5bsWQnPl1-l9amWpjlLbZ8vQ=w640-h360",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgc4ku04cz1tAUmS_-ABkbzsiuCEZQejgoIsy1gQKsPQb7JD4CPQEvf1ympaEIYxWiuBOat9L-VBNNbyos1T5UBtNGHuqerFR7aZPG0akbU3hut_OIrbCnaYFbQZlH6o5e29oAApBhxvju2J0jsONOHiAnlxtEDTgqoRIu5bsWQnPl1-l9amWpjlLbZ8vQ=w640-h360",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "http://www.haxorai.com/p/bg-generator.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
